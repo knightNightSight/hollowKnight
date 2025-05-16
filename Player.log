@@ -1,0 +1,653 @@
+Mono path[0] = 'D:/GAMES/Hollow Knight/hollow_knight_Data/Managed'
+Mono config path = 'D:/GAMES/Hollow Knight/MonoBleedingEdge/etc'
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path D:/GAMES/Hollow Knight/hollow_knight_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX130 (ID=0x174d)
+    Vendor:   
+    VRAM:     2001 MB
+    Driver:   32.0.15.6119
+Begin MonoManager ReloadAssembly
+- Completed reload, in  9.796 seconds
+OnLevelWasLoaded was found on GameMap
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+OnLevelWasLoaded was found on PlayMakerUnity2d
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.394400 ms
+Graphics tier changed to High
+
+Steam initializing
+
+Steam logged in as Player
+
+Selected online subsystem SteamOnlineSubsystem
+
+Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Loaded saved language code 'EN'
+
+Restored language code 'EN'
+
+
+Unloading 47 unused Assets to reduce memory usage. Loaded Objects now: 3814.
+Total: 5.912300 ms (FindLiveObjects: 0.655800 ms CreateObjectMapping: 0.400500 ms MarkObjects: 4.767100 ms  DeleteObjects: 0.087300 ms)
+
+Steam stats received.
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Didn't need to wait for PlayerPrefs load.
+
+UnloadTime: 17.494200 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Performing automatic level start.
+
+Failed to retrieve achievement state for ENDING_A
+
+Failed to retrieve achievement state for ENDING_B
+
+Failed to retrieve achievement state for ENDING_C
+
+Failed to retrieve achievement state for STEELSOUL
+
+Game controller set to None.
+
+Controller Type: Unknown
+
+Unable to match controller of name (None), will attempt default mapping set.
+
+Active Gamepad Type: XBOX_360
+
+Game controller set to None.
+
+Failed to retrieve achievement state for MASKED
+
+Failed to retrieve achievement state for BLESSED
+
+Failed to retrieve achievement state for WORLDSOUL
+
+Failed to retrieve achievement state for FK_DEFEAT
+
+Failed to retrieve achievement state for DREAM_FK
+
+Failed to retrieve achievement state for DREAM_SOUL_MASTER_DEFEAT
+
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+
+Failed to retrieve achievement state for ZOTE
+
+Failed to retrieve achievement state for ATTUNEMENT
+
+Failed to retrieve achievement state for AWAKENING
+
+Failed to retrieve achievement state for ASCENSION
+
+Failed to retrieve achievement state for METAMORPHOSIS
+
+Failed to retrieve achievement state for NAILSMITH_KILL
+
+Failed to retrieve achievement state for NAILSMITH_SPARE
+
+Failed to retrieve achievement state for QUIRREL_EPILOGUE
+
+Failed to retrieve achievement state for MOURNER
+
+Failed to retrieve achievement state for TRAITOR_LORD
+
+Failed to retrieve achievement state for TEACHER
+
+Failed to retrieve achievement state for WATCHER
+
+Failed to retrieve achievement state for COLOSSEUM_3
+
+Failed to retrieve achievement state for ENDING_A
+
+Failed to retrieve achievement state for ENDING_B
+
+Failed to retrieve achievement state for ENDING_C
+
+Failed to retrieve achievement state for VOID
+
+Failed to retrieve achievement state for SPEEDRUN_1
+
+Failed to retrieve achievement state for SPEEDRUN_2
+
+Failed to retrieve achievement state for COMPLETION
+
+Failed to retrieve achievement state for SPEED_COMPLETION
+
+Failed to retrieve achievement state for STEELSOUL
+
+Failed to retrieve achievement state for STEELSOUL_COMPLETION
+
+Failed to retrieve achievement state for HUNTER_1
+
+Failed to retrieve achievement state for HUNTER_2
+
+Failed to retrieve achievement state for MR_MUSHROOM
+
+Failed to retrieve achievement state for WHITE_DEFENDER
+
+Failed to retrieve achievement state for GREY_PRINCE
+
+Failed to retrieve achievement state for GRIMM
+
+Failed to retrieve achievement state for NIGHTMARE_GRIMM
+
+Failed to retrieve achievement state for BANISHMENT
+
+Failed to retrieve achievement state for PANTHEON1
+
+Failed to retrieve achievement state for PANTHEON2
+
+Failed to retrieve achievement state for PANTHEON3
+
+Failed to retrieve achievement state for PANTHEON4
+
+Failed to retrieve achievement state for ENDINGD
+
+Failed to retrieve achievement state for COMPLETIONGG
+
+pd.maxHealth: 8 pd.maxHealthBase: 8
+
+pd.maxHealth: 5 pd.maxHealthBase: 5
+
+pd.maxHealth: 5 pd.maxHealthBase: 5
+
+
+Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 46171.
+Total: 253.914400 ms (FindLiveObjects: 3.419100 ms CreateObjectMapping: 1.858500 ms MarkObjects: 248.066400 ms  DeleteObjects: 0.569800 ms)
+
+Making UI menu lean.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Unloading 23 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 88 unused Assets to reduce memory usage. Loaded Objects now: 50016.
+Total: 286.985800 ms (FindLiveObjects: 3.599100 ms CreateObjectMapping: 1.957600 ms MarkObjects: 278.631100 ms  DeleteObjects: 2.796800 ms)
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+
+Could not find FSM: Control Lever
+
+Bump Height: 0.005290985
+
+Bump Height: 0.005290985
+
+Could not find FSM: Control Lever
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.387500 ms
+Deferring level start (marked as manual).
+
+
+Unloading 2142 unused Assets to reduce memory usage. Loaded Objects now: 54233.
+Total: 329.601500 ms (FindLiveObjects: 4.668200 ms CreateObjectMapping: 2.970600 ms MarkObjects: 314.879300 ms  DeleteObjects: 7.082600 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.084700 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Performing automatic level start.
+
+Failed to retrieve achievement state for ENDING_A
+
+Failed to retrieve achievement state for ENDING_B
+
+Failed to retrieve achievement state for ENDING_C
+
+Failed to retrieve achievement state for STEELSOUL
+
+Game controller set to None.
+
+Controller Type: Unknown
+
+Unable to match controller of name (None), will attempt default mapping set.
+
+Active Gamepad Type: XBOX_360
+
+Game controller set to None.
+
+Failed to retrieve achievement state for MASKED
+
+Failed to retrieve achievement state for BLESSED
+
+Failed to retrieve achievement state for WORLDSOUL
+
+Failed to retrieve achievement state for FK_DEFEAT
+
+Failed to retrieve achievement state for DREAM_FK
+
+Failed to retrieve achievement state for DREAM_SOUL_MASTER_DEFEAT
+
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+
+Failed to retrieve achievement state for ZOTE
+
+Failed to retrieve achievement state for ATTUNEMENT
+
+Failed to retrieve achievement state for AWAKENING
+
+Failed to retrieve achievement state for ASCENSION
+
+Failed to retrieve achievement state for METAMORPHOSIS
+
+Failed to retrieve achievement state for NAILSMITH_KILL
+
+Failed to retrieve achievement state for NAILSMITH_SPARE
+
+Failed to retrieve achievement state for QUIRREL_EPILOGUE
+
+Failed to retrieve achievement state for MOURNER
+
+Failed to retrieve achievement state for TRAITOR_LORD
+
+Failed to retrieve achievement state for TEACHER
+
+Failed to retrieve achievement state for WATCHER
+
+Failed to retrieve achievement state for COLOSSEUM_3
+
+Failed to retrieve achievement state for ENDING_A
+
+Failed to retrieve achievement state for ENDING_B
+
+Failed to retrieve achievement state for ENDING_C
+
+Failed to retrieve achievement state for VOID
+
+Failed to retrieve achievement state for SPEEDRUN_1
+
+Failed to retrieve achievement state for SPEEDRUN_2
+
+Failed to retrieve achievement state for COMPLETION
+
+Failed to retrieve achievement state for SPEED_COMPLETION
+
+Failed to retrieve achievement state for STEELSOUL
+
+Failed to retrieve achievement state for STEELSOUL_COMPLETION
+
+Failed to retrieve achievement state for HUNTER_1
+
+Failed to retrieve achievement state for HUNTER_2
+
+Failed to retrieve achievement state for MR_MUSHROOM
+
+Failed to retrieve achievement state for WHITE_DEFENDER
+
+Failed to retrieve achievement state for GREY_PRINCE
+
+Failed to retrieve achievement state for GRIMM
+
+Failed to retrieve achievement state for NIGHTMARE_GRIMM
+
+Failed to retrieve achievement state for BANISHMENT
+
+Failed to retrieve achievement state for PANTHEON1
+
+Failed to retrieve achievement state for PANTHEON2
+
+Failed to retrieve achievement state for PANTHEON3
+
+Failed to retrieve achievement state for PANTHEON4
+
+Failed to retrieve achievement state for ENDINGD
+
+Failed to retrieve achievement state for COMPLETIONGG
+
+pd.maxHealth: 8 pd.maxHealthBase: 8
+
+pd.maxHealth: 5 pd.maxHealthBase: 5
+
+pd.maxHealth: 5 pd.maxHealthBase: 5
+
+
+Unloading 413 unused Assets to reduce memory usage. Loaded Objects now: 47634.
+Total: 260.184400 ms (FindLiveObjects: 3.431500 ms CreateObjectMapping: 2.125600 ms MarkObjects: 252.079000 ms  DeleteObjects: 2.547700 ms)
+
+Making UI menu lean.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Unloading 23 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 94 unused Assets to reduce memory usage. Loaded Objects now: 51002.
+Total: 385.982400 ms (FindLiveObjects: 6.847100 ms CreateObjectMapping: 3.385200 ms MarkObjects: 365.037400 ms  DeleteObjects: 10.712100 ms)
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+
+Could not find FSM: Control Lever
+
+Bump Height: 0.005290985
+
+Could not find FSM: Control Lever
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 29.124800 ms
+Deferring level start (marked as manual).
+
+
+Unloading 2144 unused Assets to reduce memory usage. Loaded Objects now: 55292.
+Total: 431.939200 ms (FindLiveObjects: 7.107400 ms CreateObjectMapping: 3.628700 ms MarkObjects: 411.503700 ms  DeleteObjects: 9.697800 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.036800 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Performing automatic level start.
+
+Failed to retrieve achievement state for ENDING_A
+
+Failed to retrieve achievement state for ENDING_B
+
+Failed to retrieve achievement state for ENDING_C
+
+Failed to retrieve achievement state for STEELSOUL
+
+Game controller set to None.
+
+Controller Type: Unknown
+
+Unable to match controller of name (None), will attempt default mapping set.
+
+Active Gamepad Type: XBOX_360
+
+Game controller set to None.
+
+Failed to retrieve achievement state for MASKED
+
+Failed to retrieve achievement state for BLESSED
+
+Failed to retrieve achievement state for WORLDSOUL
+
+Failed to retrieve achievement state for FK_DEFEAT
+
+Failed to retrieve achievement state for DREAM_FK
+
+Failed to retrieve achievement state for DREAM_SOUL_MASTER_DEFEAT
+
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+
+Failed to retrieve achievement state for ZOTE
+
+Failed to retrieve achievement state for ATTUNEMENT
+
+Failed to retrieve achievement state for AWAKENING
+
+Failed to retrieve achievement state for ASCENSION
+
+Failed to retrieve achievement state for METAMORPHOSIS
+
+Failed to retrieve achievement state for NAILSMITH_KILL
+
+Failed to retrieve achievement state for NAILSMITH_SPARE
+
+Failed to retrieve achievement state for QUIRREL_EPILOGUE
+
+Failed to retrieve achievement state for MOURNER
+
+Failed to retrieve achievement state for TRAITOR_LORD
+
+Failed to retrieve achievement state for TEACHER
+
+Failed to retrieve achievement state for WATCHER
+
+Failed to retrieve achievement state for COLOSSEUM_3
+
+Failed to retrieve achievement state for ENDING_A
+
+Failed to retrieve achievement state for ENDING_B
+
+Failed to retrieve achievement state for ENDING_C
+
+Failed to retrieve achievement state for VOID
+
+Failed to retrieve achievement state for SPEEDRUN_1
+
+Failed to retrieve achievement state for SPEEDRUN_2
+
+Failed to retrieve achievement state for COMPLETION
+
+Failed to retrieve achievement state for SPEED_COMPLETION
+
+Failed to retrieve achievement state for STEELSOUL
+
+Failed to retrieve achievement state for STEELSOUL_COMPLETION
+
+Failed to retrieve achievement state for HUNTER_1
+
+Failed to retrieve achievement state for HUNTER_2
+
+Failed to retrieve achievement state for MR_MUSHROOM
+
+Failed to retrieve achievement state for WHITE_DEFENDER
+
+Failed to retrieve achievement state for GREY_PRINCE
+
+Failed to retrieve achievement state for GRIMM
+
+Failed to retrieve achievement state for NIGHTMARE_GRIMM
+
+Failed to retrieve achievement state for BANISHMENT
+
+Failed to retrieve achievement state for PANTHEON1
+
+Failed to retrieve achievement state for PANTHEON2
+
+Failed to retrieve achievement state for PANTHEON3
+
+Failed to retrieve achievement state for PANTHEON4
+
+Failed to retrieve achievement state for ENDINGD
+
+Failed to retrieve achievement state for COMPLETIONGG
+
+pd.maxHealth: 8 pd.maxHealthBase: 8
+
+pd.maxHealth: 5 pd.maxHealthBase: 5
+
+pd.maxHealth: 5 pd.maxHealthBase: 5
+
+
+Unloading 412 unused Assets to reduce memory usage. Loaded Objects now: 48627.
+Total: 321.512000 ms (FindLiveObjects: 6.694900 ms CreateObjectMapping: 3.142100 ms MarkObjects: 308.513600 ms  DeleteObjects: 3.159000 ms)
+
